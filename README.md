@@ -1,2 +1,5 @@
-# Filmoteka-TeamProject
- Our second TeamProject on VanillaJs. Movie finder and movie library application. Enjoy!;)
+# Filmoteka
+
+JavaScript Team Project/GoIT
+
+[GitHub Pages](https://imartete.github.io/js-team-project/)
